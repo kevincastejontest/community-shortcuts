@@ -8,7 +8,7 @@
       "dirEnv": "true",
       "dirBkgEnv": "false",
       "fileEnv": "false",
-      "deskEnv": "false",
+      "deskEnv": "false"
     },
     {
       "name": "FastDelete2",
@@ -18,7 +18,7 @@
       "dirEnv": "true",
       "dirBkgEnv": "false",
       "fileEnv": "false",
-      "deskEnv": "false",
+      "deskEnv": "false"
     },
     {
       "name": "FastDelete3",
@@ -28,7 +28,7 @@
       "dirEnv": "true",
       "dirBkgEnv": "false",
       "fileEnv": "false",
-      "deskEnv": "false",
+      "deskEnv": "false"
     }
   ]
 }
