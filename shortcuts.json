@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FastDelete",
+    "label": "Fast Delete",
+    "command": "\"C:\\Program Files\\nodejs\\node.exe\" \"C:\\Users\\pitik\\Desktop\\test.js\" \"%V\"",
+    "description": "Delete folder faster than Windows!",
+    "dirEnv": "true",
+    "dirBkgEnv": "false",
+    "fileEnv": "false",
+    "deskEnv": "false",
+  },
+  {
+    "name": "FastDelete2",
+    "label": "Fast Delete",
+    "command": "\"C:\\Program Files\\nodejs\\node.exe\" \"C:\\Users\\pitik\\Desktop\\test.js\" \"%V\"",
+    "description": "Delete folder faster than Windows!",
+    "dirEnv": "true",
+    "dirBkgEnv": "false",
+    "fileEnv": "false",
+    "deskEnv": "false",
+  },
+  {
+    "name": "FastDelete3",
+    "label": "Fast Delete",
+    "command": "\"C:\\Program Files\\nodejs\\node.exe\" \"C:\\Users\\pitik\\Desktop\\test.js\" \"%V\"",
+    "description": "Delete folder faster than Windows!",
+    "dirEnv": "true",
+    "dirBkgEnv": "false",
+    "fileEnv": "false",
+    "deskEnv": "false",
+  }
+]
